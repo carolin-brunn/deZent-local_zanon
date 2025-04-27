@@ -1,0 +1,8 @@
+bitarray
+fnvhash
+numpy
+matplotlib
+mmh3
+pandas
+scipy
+simpy

@@ -22,7 +22,7 @@ do
         		echo $n_gw
         		echo $n_max_sm
         		echo $seed
-        		python3 src/main.py $n_gw $n_max_sm $z $seed
+        		python3 deZent/src/main.py $n_gw $n_max_sm $z $seed
         	done
         done
     done
@@ -48,7 +48,7 @@ do
         		echo $n_gw
         		echo $n_max_sm
         		echo $seed
-        		python3 src/main.py $n_gw $n_max_sm $z $seed
+        		python3 deZent/src/main.py $n_gw $n_max_sm $z $seed
         	done
         done
     done
